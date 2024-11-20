@@ -126,6 +126,7 @@
 .btn-tour:hover {
     color: #fff;
 }
+
 .btn-tour i {
     font-size: 20px;
     padding-left: 5px;
@@ -138,6 +139,10 @@
 
     
 /*======== About Us ======*/  
+
+.About {
+    text-align: center;
+}
 
 .choose-us-wraper {
 
@@ -388,6 +393,13 @@
 }
 
 
+/* ========== Screens =========== */
+
+.Screens {
+    text-align: center;
+}
+
+
 /* ========= Counter ============= */
 .counter {
     background-image: url("../images/counter-bg.jpg");
@@ -428,6 +440,11 @@
 }
 
 /*=========== Download Now ===========*/
+
+.download-now {
+    text-align: center;
+}
+
 
 .download-now img {
     width: 100%;
